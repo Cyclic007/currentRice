@@ -61,6 +61,30 @@ fn powerManager(){
 }
 
 
+fn calender(){
+
+
+
+}
+
+fn quickSettings(){
+
+
+}
+
+fn musicPlayer(){
+
+
+
+}
+
+fn wether(){
+
+
+
+}
+
+
 
 
 
